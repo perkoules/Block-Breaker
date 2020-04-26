@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: ac7fa191490410d44b6c9b7b7453e628
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: last_level_0
+    21300002: last_level_1
+    21300004: last_level_2
+    21300006: last_level_3
+    21300008: last_level_4
+    21300010: last_level_5
+    21300012: last_level_6
+    21300014: last_level_7
+    21300016: last_level_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: last_level_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 280
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: last_level_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 281
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: last_level_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: last_level_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 281
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: last_level_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 280
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: last_level_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 280
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: last_level_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 281
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: last_level_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 281
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: last_level_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 280
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
